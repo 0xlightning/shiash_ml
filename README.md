@@ -1,2 +1,2 @@
 # Machine_Learning Projects
-Machine Learning  - Data Science Internship Project @ Shiash Info Solutions
+Machine Learning Projects - Data Science Internship Project @ Shiash Info Solutions
