@@ -1,6 +1,19 @@
 # Machine_Learning Projects by 0xlighning
 Machine Learning Projects - Data Science Internship Project @ Shiash Info Solutions
 
+**Regression Models**:
+R2 Square
+Mean Absolute Error
+Mean Square Error
+Root Mean Square Error
+
+**Classification Model**:
+Precision
+Recall
+Accuracy
+Confussion matrix
+Decision Tree
+
 ### Linear Regression models:
   - Reimbursement Price Prediction
   - Automobile price prediction
