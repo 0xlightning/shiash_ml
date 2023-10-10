@@ -3,16 +3,16 @@ Machine Learning Projects - Data Science Internship Project @ Shiash Info Soluti
 
 **Regression Models**:
 R2 Square
-Mean Absolute Error
-Mean Square Error
-Root Mean Square Error
+,Mean Absolute Error
+,Mean Square Error
+,Root Mean Square Error
 
 **Classification Model**:
 Precision
-Recall
-Accuracy
-Confussion matrix
-Decision Tree
+,Recall
+,Accuracy
+,Confussion matrix
+,Decision Tree
 
 ### Linear Regression models:
   - Reimbursement Price Prediction
