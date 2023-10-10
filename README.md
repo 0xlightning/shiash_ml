@@ -1,4 +1,4 @@
-# Machine_Learning Projects
+# Machine_Learning Projects by 0xlighning
 Machine Learning Projects - Data Science Internship Project @ Shiash Info Solutions
 
 ### Linear Regression models:
@@ -16,4 +16,4 @@ Machine Learning Projects - Data Science Internship Project @ Shiash Info Soluti
   - Real Time Job Details
 
 ## Final Project 
-  - Consumer Sales Prediction on Different Products in Different Tier companies
+  - Consumer Sales Prediction on Different Products in Different Tier companies [Linear Regression Model]
