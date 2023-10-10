@@ -13,6 +13,7 @@ Precision
 ,Accuracy
 ,Confussion matrix
 ,Decision Tree
+,Classification Tree
 
 ### Linear Regression models:
   - Reimbursement Price Prediction
