@@ -29,4 +29,4 @@ Precision
   - Real Time Job Details
 
 ## Final Project 
-  - Consumer Sales Prediction on Different Products in Different Tier companies [Linear Regression Model]
+  - Consumer Sales Prediction on Different Products in Different Tier companies [Using Regression Model]
