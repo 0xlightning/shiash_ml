@@ -21,6 +21,7 @@ Precision
   - Food Time Prediction
   - Airplane Fare Prediction
   - Cost of Living
+  - Commerical Sales
 ### Logistical Regression models:
   - Heart Disease
   - Weather Rain or Sunny Day
