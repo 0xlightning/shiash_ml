@@ -32,4 +32,4 @@ Precision
   - Real Time Job Details
 
 ## Final Project 
-  - Commerical Sales Prediction on Different Products in Different Tier companies [Using Regression Model]
+  - Commerical Sales Prediction on Different Products in Different Tier companies [Linear Regression, Random Forest Regression, Multiple Linear Regression]
