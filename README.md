@@ -20,12 +20,14 @@ Precision
   - Automobile price prediction
   - Food Time Prediction
   - Airplane Fare Prediction
+  - Cost of Living
 ### Logistical Regression models:
   - Heart Disease
   - Weather Rain or Sunny Day
 ### Random Forest Algorithm
   - Heart Disease
   - Weather Rain or Sunny Day
+  - Wine Quality 
 ### K means Algorithm
   - Real Time Job Details
 
