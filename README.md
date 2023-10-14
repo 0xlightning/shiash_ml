@@ -28,7 +28,8 @@ Precision
 ### Random Forest Algorithm
   - Heart Disease
   - Weather Rain or Sunny Day
-  - Wine Quality 
+  - Wine Quality
+  - Commerical Sales
 ### K means Algorithm
   - Real Time Job Details
 
