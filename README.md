@@ -47,21 +47,17 @@ historical data.
    ➢ Designed a recommendation system to suggest movies to users based on their
 preferences and viewing history. 
 
-8. Customer Sales Classification Model: [ Linear Regression, Random Forest Regression, Multiple Linear Regression ]
+8. Customer Sales Classification Model: 
 
    ➢ Developed a classification model to categorize customer sales patterns for targeted
-marketing strategies. 
+marketing strategies.
 
 9. Wine Quality Classification Model: 
 
    ➢ Created a classification model to assess and classify the quality of wine based on
 various attributes.
 
-10.Commercial Sales Regression Model: 
+10. Commercial Sales Regression Model: 
 
-   ➢ Built a regression model to analyze and predict commercial sales data, optimizing
+    ➢ Built a regression model to analyze and predict commercial sales data, optimizing
 business strategies.
-
-
-## Final Project 
-  - Commerical Sales Prediction on Different Products in Different Tier companies 
