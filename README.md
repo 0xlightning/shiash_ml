@@ -57,7 +57,9 @@ marketing strategies.
    ➢ Created a classification model to assess and classify the quality of wine based on
 various attributes.
 
-10. Commercial Sales Regression Model: 
-
+10. Commercial Sales Regression Model:
+   - Linear Regression
+   - Random Forest Regression
+   - Multiple Linear Regression 
     ➢ Built a regression model to analyze and predict commercial sales data, optimizing
 business strategies.
