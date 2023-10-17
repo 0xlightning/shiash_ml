@@ -16,50 +16,35 @@ Precision
 ,Classification Tree
 
 1. Reimbursement Price Regression Model: 
-
-   ➢ Developed a regression model to predict reimbursement prices for specific cases. 
-
-2. Automobile Price Regression Model: 
-
-   ➢ Created a regression model to estimate the prices of automobiles based on various 
+   - Multiple Linear Regression (OLS)
+   - Developed a regression model to predict reimbursement prices for specific cases. 
+3. Automobile Price Regression Model: 
+   - Multiple Linear Regression (OLS)
+   - Created a regression model to estimate the prices of automobiles based on various 
 features. 
-
-3. Food Delivery Time Regression Model: 
-
-   ➢ Built a regression model to predict food delivery times, enhancing service efficiency.
-
-4. Airplane Fare Regression Model: 
-
-   ➢ Designed a regression model to predict airfare prices for travelers. 
-
-5. Heart Disease Classification Model: 
-
-   ➢ Developed a classification model to detect and predict heart disease based on
+4. Food Delivery Time Regression Model: 
+   - Multiple Linear Regression (OLS)
+   - Built a regression model to predict food delivery times, enhancing service efficiency.
+5. Airplane Fare Regression Model: 
+   - Multiple Linear Regression (OLS)
+   - Designed a regression model to predict airfare prices for travelers. 
+6. Heart Disease Classification Model: 
+   - Developed a classification model to detect and predict heart disease based on
 patient data. 
-
-6. Austria Weather Classification Model: 
-
-   ➢ Created a classification model to forecast weather conditions in Austria using
+7. Austria Weather Classification Model: 
+   - Created a classification model to forecast weather conditions in Austria using
 historical data. 
-
-7. Movie Recommendation Model: 
-
-   ➢ Designed a recommendation system to suggest movies to users based on their
+8. Movie Recommendation Model: 
+   - Designed a recommendation system to suggest movies to users based on their
 preferences and viewing history. 
-
-8. Customer Sales Classification Model: 
-
-   ➢ Developed a classification model to categorize customer sales patterns for targeted
+9. Customer Sales Classification Model:
+   - K means Algorithm
+   - Developed a classification model to categorize customer sales patterns for targeted
 marketing strategies.
-
-9. Wine Quality Classification Model: 
-
-   ➢ Created a classification model to assess and classify the quality of wine based on
-various attributes.
-
-10. Commercial Sales Regression Model:
+11. Wine Quality Classification Model: 
+   - Created a classification model to assess and classify the quality of wine based on various attributes.
+11. Commercial Sales Regression Model:
    - Linear Regression
    - Random Forest Regression
-   - Multiple Linear Regression 
-    ➢ Built a regression model to analyze and predict commercial sales data, optimizing
-business strategies.
+   - Multiple Linear Regression (OLS)
+   - Built a regression model to analyze and predict commercial sales data, optimizing business strategies.
