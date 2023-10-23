@@ -38,8 +38,8 @@ Precision
 historical data. 
 8. Movie Recommendation Model: 
     - Designed a recommendation system to suggest movies to users based on their preferences and viewing history. 
-9. Customer Sales Classification Model:
-    - Developed a classification model to categorize customer sales patterns for targeted marketing strategies.
+9. Job Details Classification Model:
+    - Developed a classification model to categorize job details patterns for targeted marketing strategies.
         - K-Nearest Neighbors Algorithm
 10. Wine Quality Classification Model: 
     - Created a classification model to assess and classify the quality of wine based on various attributes.
