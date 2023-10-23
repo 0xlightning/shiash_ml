@@ -37,7 +37,7 @@ Precision
         - Random Forest Regression Algorithm
 8. Job Details Classification Model:
     - Developed a classification model to categorize job details patterns for targeted marketing strategies.
-        - K-Nearest Neighbors Algorithm
+        - K-means Algorithm
 9. Wine Quality Classification Model: 
     - Created a classification model to assess and classify the quality of wine based on various attributes.
         - Random Forest Regression Algorithm
