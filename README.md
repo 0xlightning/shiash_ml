@@ -35,16 +35,13 @@ Precision
     - Created a classification model to forecast weather conditions in Austria using
         - Logistic Regession Algorithm
         - Random Forest Regression Algorithm
-historical data. 
-8. Movie Recommendation Model: 
-    - Designed a recommendation system to suggest movies to users based on their preferences and viewing history. 
-9. Job Details Classification Model:
+8. Job Details Classification Model:
     - Developed a classification model to categorize job details patterns for targeted marketing strategies.
         - K-Nearest Neighbors Algorithm
-10. Wine Quality Classification Model: 
+9. Wine Quality Classification Model: 
     - Created a classification model to assess and classify the quality of wine based on various attributes.
         - Random Forest Regression Algorithm
-11. Commercial Sales Regression Model:
+10. Commercial Sales Regression Model:
     - Built a regression model to analyze and predict commercial sales data, optimizing business strategies.
         - Linear Regression Algorithm
         - Random Forest Regression Algorithm
